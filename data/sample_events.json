@@ -1,0 +1,64 @@
+[
+  {
+    "event_id": "1",
+    "user_id": "user-1",
+    "track_id": "track-1",
+    "artist_id": "artist-a",
+    "event_type": "play",
+    "occurred_at": "2024-05-01T10:00:00",
+    "duration_seconds": 180
+  },
+  {
+    "event_id": "2",
+    "user_id": "user-2",
+    "track_id": "track-1",
+    "artist_id": "artist-a",
+    "event_type": "play",
+    "occurred_at": "2024-05-01T10:05:00",
+    "duration_seconds": 200
+  },
+  {
+    "event_id": "3",
+    "user_id": "user-1",
+    "track_id": "track-2",
+    "artist_id": "artist-b",
+    "event_type": "play",
+    "occurred_at": "2024-05-02T09:00:00",
+    "duration_seconds": 240
+  },
+  {
+    "event_id": "4",
+    "user_id": "user-3",
+    "track_id": "track-2",
+    "artist_id": "artist-b",
+    "event_type": "play",
+    "occurred_at": "2024-05-02T09:15:00",
+    "duration_seconds": 260
+  },
+  {
+    "event_id": "5",
+    "user_id": "user-2",
+    "track_id": "track-3",
+    "artist_id": "artist-c",
+    "event_type": "play",
+    "occurred_at": "2024-05-03T12:00:00",
+    "duration_seconds": 150
+  },
+  {
+    "event_id": "6",
+    "user_id": "user-3",
+    "track_id": "track-3",
+    "artist_id": "artist-c",
+    "event_type": "like",
+    "occurred_at": "2024-05-03T12:05:00"
+  },
+  {
+    "event_id": "7",
+    "user_id": "user-4",
+    "track_id": "track-2",
+    "artist_id": "artist-b",
+    "event_type": "play",
+    "occurred_at": "2024-05-04T11:00:00",
+    "duration_seconds": 240
+  }
+]
